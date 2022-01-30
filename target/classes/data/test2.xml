@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="regression">
+	<test name="Test2">
+
+		<parameter name="addItem" value="Automation" />
+		<parameter name="colorName" value="Purple" />
+		
+
+		<classes>
+			<class name="test.Test2" />
+		</classes>
+
+
+	</test>
+</suite>

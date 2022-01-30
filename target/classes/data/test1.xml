@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="smoke">
+	<test name="Test1">
+
+		<parameter name="addItem" value="Automation" />
+		<parameter name="colorName" value="Purple" />
+		
+
+		<classes>
+			<class name="test.Test1" />
+		</classes>
+
+
+	</test>
+</suite>

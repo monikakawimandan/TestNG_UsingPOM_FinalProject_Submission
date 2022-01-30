@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8081" started-at="2022-01-30T17:13:14Z" finished-at="2022-01-30T17:13:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8081" started-at="2022-01-30T17:13:14Z" finished-at="2022-01-30T17:13:22Z">
+      <class name="test.Test3">
+        <test-method status="PASS" signature="verifyingAllMonthsDropdown()[pri:0, instance:test.Test3@2f177a4b]" name="verifyingAllMonthsDropdown" duration-ms="8061" started-at="2022-01-30T17:13:14Z" finished-at="2022-01-30T17:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingAllMonthsDropdown -->
+      </class> <!-- test.Test3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
